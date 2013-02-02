@@ -1,1 +1,9 @@
-fork from http://vstone.eu/talks/puppet-module-testing
+This is some code that goes together with my presentation on PuppetCamp
+on puppet module testing. 
+
+You can view the talk here: http://vstone.eu/talks/puppet-module-testing
+If you plan on reusing it, which I encourage, I also suggest you improve it
+here: https://github.com/vStone/talk-puppet-module-testing-revealjs
+
+If you feel like a basic example test is missing, the solution is a pull
+request away.
